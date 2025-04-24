@@ -3,7 +3,6 @@ package com.example.springaisecuredtools;
 import org.slf4j.Logger;
 import org.springframework.ai.tool.annotation.Tool;
 import org.springframework.ai.tool.annotation.ToolParam;
-import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Component;
 
 @Component
